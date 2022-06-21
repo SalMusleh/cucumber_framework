@@ -1,3 +1,4 @@
+@Regression @HeroApp
 Feature: HeroApp Functionalities
 
   Scenario: Validate add/remove element page

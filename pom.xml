@@ -52,4 +52,6 @@
         </dependency>
     </dependencies>
 
+    <!--surefire plugin to execute cucumber tags will be added-->
+
 </project>
